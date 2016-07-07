@@ -1,0 +1,6 @@
+c:\users\joel\documents\visual studio 2015\Projects\SimpleAStar\SimpleAStar\bin\Debug\SimpleAStar.exe.config
+c:\users\joel\documents\visual studio 2015\Projects\SimpleAStar\SimpleAStar\bin\Debug\SimpleAStar.exe
+c:\users\joel\documents\visual studio 2015\Projects\SimpleAStar\SimpleAStar\bin\Debug\SimpleAStar.pdb
+c:\users\joel\documents\visual studio 2015\Projects\SimpleAStar\SimpleAStar\obj\Debug\SimpleAStar.csprojResolveAssemblyReference.cache
+c:\users\joel\documents\visual studio 2015\Projects\SimpleAStar\SimpleAStar\obj\Debug\SimpleAStar.exe
+c:\users\joel\documents\visual studio 2015\Projects\SimpleAStar\SimpleAStar\obj\Debug\SimpleAStar.pdb
